@@ -1,0 +1,6 @@
+cricket
+soccer
+tennis
+basketball
+cycling
+swimming

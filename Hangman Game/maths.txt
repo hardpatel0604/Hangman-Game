@@ -1,0 +1,13 @@
+addition
+multiplication
+subtraction
+polynomial
+triangle
+square
+addition
+division
+graph
+number
+inverse
+matrix
+algebra
